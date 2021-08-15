@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Relax96
-- 👀 I’m interested in Python framework & librarys
-- 🌱 I’m currently learning Django rest framework & react.js for projects
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Relax96 (EL KADIM BILAL)
+- 👀 I’m interested in Python frameworks & librarys for science
+- 🌱 I’m currently learning Django rest framework & react.js for many projects
+- 💞️ I’m looking to collaborate on projects openSource
+- 📫 How to reach me https://www.linkedin.com/in/bilal-el-kadim-681985131/
 
-<!---
-Relax96/Relax96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
